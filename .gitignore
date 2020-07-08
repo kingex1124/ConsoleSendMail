@@ -1,0 +1,7 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs/ConsoleSendMail/v16
+/ConsoleSendMail/obj/Debug
+/ConsoleSendMail/bin/Debug
